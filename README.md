@@ -19,4 +19,6 @@ Eriks Lieblingsprogrammiersprache ist "Malbolge":
 
 Das Ablecken von Türknöpfen ist auf anderen Planeten illegal
 
+Josef war hier
+
 Dies ist eine Konfliktzeile
